@@ -1,7 +1,10 @@
-## Hi there, thanks for dropping by 👋
+## Hi there, I'm Siva Karthikeya Mandarapu 👋
 
+I'm currently pursuing my Masters in Computational Science and Engineering at Technical University of Munich (TUM).
 <!--
 **karthikeya-ms/karthikeya-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
