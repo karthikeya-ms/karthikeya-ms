@@ -9,7 +9,7 @@ GitHub: [karthikeya-ms](https://github.com/karthikeya-ms)
 ---
 
 ## 👨‍💻 About Me  
-I am a passionate computational scientist and engineer with expertise in **High-Performance Computing (HPC)**, **Deep Learning (DL)**, **Scientific Computing**, and **software development for engineering applications**. My focus lies in solving complex problems through efficient algorithms and scalable solutions, leveraging my strong foundation in numerical programming, machine learning, and simulation techniques.
+I am a  computational engineer with expertise in **High-Performance Computing (HPC)**, **Deep Learning (DL)**, **Scientific Computing**, and **software development for engineering applications**. I focus on solving complex problems through efficient algorithms and scalable solutions, leveraging my strong foundation in numerical programming, machine learning, and simulation techniques.
 
 ---
 
