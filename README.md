@@ -1,4 +1,4 @@
-## Hi there, I'm Siva Karthikeya Mandarapu 👋
+## Hi there, thanks for dropping by.👋
 
 
 **M.Sc. Computational Science and Engineering** | **Technical University of Munich (TUM)**  
@@ -9,7 +9,7 @@ GitHub: [karthikeya-ms](https://github.com/karthikeya-ms)
 ---
 
 ## 👨‍💻 About Me  
-I am a  computational engineer with expertise in **High-Performance Computing (HPC)**, **Deep Learning (DL)**, **Scientific Computing**, and **software development for engineering applications**. I focus on solving complex problems through efficient algorithms and scalable solutions, leveraging my strong foundation in numerical programming, machine learning, and simulation techniques.
+I am Siva Karthikeya, specializing in **High-Performance Computing (HPC)**, **Numerics**, **Deep Learning (DL)**, and **Scientific Computing**. I enjoy working in the intersection of different domains through code and hike regularly to slow down time. 
 
 ---
 
@@ -27,7 +27,7 @@ I am a  computational engineer with expertise in **High-Performance Computing (H
 ## 🔧 Technical Skills  
 
 **Programming Languages**: Python, C++, CUDA C++  
-**Developer Tools**: VS Code, GitHub CI, Docker, Sphinx  
+**Developer Tools**: VS Code, GitHub CI, Docker, CMake
 **Frameworks/Technologies**: MPI, OpenMP, PennyLane, PyTorch, MATLAB  
 **Platforms**: Linux, Windows  
 
