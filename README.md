@@ -1,17 +1,18 @@
 ## Hi there, thanks for dropping by.👋
 
-
-**M.Sc. Computational Science and Engineering** | **Technical University of Munich (TUM)**  
-Email: [writetokarthikeya99@gmail.com](mailto:writetokarthikeya99@gmail.com)  
-LinkedIn: [Siva Karthikeya M](https://www.linkedin.com/in/siva-karthikeya-m/)  
-GitHub: [karthikeya-ms](https://github.com/karthikeya-ms)  
-
 ---
 
 ## 👨‍💻 About Me  
 I am Siva Karthikeya, specializing in **High-Performance Computing (HPC)**, **Numerics**, **Deep Learning (DL)**, and **Scientific Computing**. I enjoy working in the intersection of different domains through code and hike regularly to slow down time. 
 
 ---
+
+
+Email: [writetokarthikeya99@gmail.com](mailto:writetokarthikeya99@gmail.com)  
+LinkedIn: [Siva Karthikeya M](https://www.linkedin.com/in/siva-karthikeya-m/)  
+GitHub: [karthikeya-ms](https://github.com/karthikeya-ms)  
+
+
 
 ## 🏫 Education  
 - **M.Sc. Computational Science and Engineering**  
