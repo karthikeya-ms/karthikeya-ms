@@ -32,7 +32,7 @@ GitHub: [karthikeya-ms](https://github.com/karthikeya-ms)
 
 ---
 
-## 🌟 Notable Projects  
+## 🌟 Notable Projects  (To be updated with latest projects)
 
 ### 1. **[Machine Learning in Crowd Modelling and Simulation](https://github.com/karthikeya-ms/ML_in_Crowd_Modelling_and_Simulation)**  
 - Simulated and analyzed human behavior in complex environments using crowd modeling techniques (e.g., cellular automata).  
