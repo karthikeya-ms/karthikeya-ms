@@ -1,9 +1,9 @@
-## Hi there, thanks for dropping by.👋
+## Hi there, I am Siva Karthikeya (SK).👋
 
 ---
 
 ## 👨‍💻 About Me  
-I am Siva Karthikeya, specializing in **High-Performance Computing (HPC)**, **Numerics**, **Deep Learning (DL)**, and **Scientific Computing**. I enjoy working in the intersection of different domains through code and hike regularly to slow down time. 
+HPC geek who loves melding massive-scale computing with advanced numerical methods—from fluid flow simulations to large-scale ML. I enjoy working in the intersection of different domains through code and hike regularly to slow down time. 
 
 
 Email: [writetokarthikeya99@gmail.com](mailto:writetokarthikeya99@gmail.com)  
